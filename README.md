@@ -45,7 +45,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had trouble connecting the api.
+I had trouble connecting the api. It also took me a while to useEffect
 
 ## License
 
